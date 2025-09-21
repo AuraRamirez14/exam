@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 st.tittle(''' # Estimacion del precio de la gasolina en funcion de estado, mes y año ''')
-st.image("gasolina.png", caption="Gasolina.",width="100")
+st.image("gasolina.png", caption="Gasolina.")
 #st.image("tabla.png", caption="Tabla de equivalencia de estados.")
 
 st.header('Datos de referncia')
