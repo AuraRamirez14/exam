@@ -2,7 +2,7 @@ import numpy as np
 import streamlit as st
 import pandas as pd
 
-st.tittle(''' # Estimacion del precio de la gasolina en funcion de estado, mes y año ''')
+st.title(''' # Estimacion del precio de la gasolina en funcion de estado, mes y año ''')
 st.image("gasolina.png", caption="Gasolina.")
 #st.image("tabla.png", caption="Tabla de equivalencia de estados.")
 
